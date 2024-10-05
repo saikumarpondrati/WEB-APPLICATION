@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.st1,img{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    
+}
+.st2{
+    position: absolute;
+    z-index: 1;
+    top: 60%;
+    .st2,i{
+        padding-left: 150px;
+        font-size: 60px;
+    }
+}
+.st3{
+    position: absolute;
+    z-index: 1;
+    top: 75%;
+    .ion{
+        padding-left: 520px;
+        font-size: 40px;
+        i{
+            padding: 50px;
+        }
+    }
+}
